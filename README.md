@@ -1,6 +1,7 @@
 # data-cacher 
 [![Build Status](https://travis-ci.org/Semlaw/data-cacher.svg?branch=master)](https://travis-ci.org/Semlaw/data-cacher) 
 [![Coverage Status](https://coveralls.io/repos/github/Semlaw/data-cacher/badge.svg?branch=master)](https://coveralls.io/github/Semlaw/data-cacher?branch=master)
+[![npm](https://img.shields.io/npm/v/data-cacher)](https://www.npmjs.com/package/data-cacher)
 
 a data caching tool
 
